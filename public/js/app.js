@@ -1,4 +1,4 @@
-console.log('Client side is working')
+
 
 const weatherform=document.querySelector('form')
 const search=document.querySelector('input')
