@@ -1,8 +1,12 @@
-## npm install
+## Available Scripts
 
-## cd src
+In the project directory, you can run:
 
-## node app.js
+### npm install
+
+### cd src
+
+### node app.js
 
 
 Open [http://localhost:8000] to view it in the browser.
